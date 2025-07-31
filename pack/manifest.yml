@@ -1,7 +1,8 @@
 ---
 manifest_version: 1
-description: This is an example pack which includes a single configlet.
+description: Configlet used to set up local and remote session mirroring
 supported_apstra_versions:
   - 5.0.0
   - 5.0.1
   - 5.1.0
+  - 6.0.0
